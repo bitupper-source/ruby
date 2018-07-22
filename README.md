@@ -1,6 +1,6 @@
 # Ruby Style Guide
 
-This is Airbnb's Ruby Style Guide.
+This is Bitupper Ruby Style Guide.
 
 It was inspired by [GitHub's guide](https://web.archive.org/web/20160410033955/https://github.com/styleguide/ruby) and [Rubocop guide][rubocop-guide].
 
